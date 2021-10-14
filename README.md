@@ -1,5 +1,7 @@
+
 # practica_github
-Jonathan Oviedo
+# Cortinez Juan
+# Jonathan Oviedo
 # Emanuel Retamales
-ani
+# Anabel Alesci
 
